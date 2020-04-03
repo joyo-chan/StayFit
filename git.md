@@ -1,3 +1,8 @@
+## Linux查看某个进程的启动时间
+```
+ps -p <PID> -o lstart
+```
+
 ## 放弃本地某个文件的修改，或所有修改
 ```
 git checkout 文件名
