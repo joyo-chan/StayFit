@@ -1,3 +1,14 @@
+## 放弃本地某个文件的修改，或所有修改
+```
+git checkout 文件名
+git checkout #放弃所有文件的所有修改
+git reset --hard 版本号 #返回到某个版本，放弃所有修改
+git log
+git log 文件名
+git checkout <commit_id> file/folder/wildcard
+#https://www.cnblogs.com/acm-bingzi/p/gitCheckout.html
+```
+
 ## deleting a local branch with git
 
 Switch to some other branch and delete Test_Branch, as follows:
