@@ -1,3 +1,8 @@
+# ps
+```
+#Check how long a process is up and running
+ps -p <PID> -o lstart
+```
 # PSFTP.exe
 ```
 CD /D "D:\PuTTY"
