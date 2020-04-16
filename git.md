@@ -1,3 +1,13 @@
+
+**How to delete a git branch both locally and remotely**
+```
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+```
+
 ## Linux查看某个进程的启动时间
 ```
 ps -p <PID> -o lstart
