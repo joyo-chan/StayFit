@@ -1,3 +1,9 @@
+# 添加和删除软连接
+```
+ln -s TARGET LINK_NAME
+unlink LINK_NAME
+```
+
 # xargs
 ```
 #创建三个文件夹one two three
