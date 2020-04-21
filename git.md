@@ -1,3 +1,10 @@
+## git 查看某个文件的修改历史以及比较某个文件的两个历史版本
+```
+find . -name xxx_file
+git log ./path/to/xxx_file
+git diff commit_id1 commit_id2 ./path/to/xxx_file
+```
+
 
 **How to delete a git branch both locally and remotely**
 ```
