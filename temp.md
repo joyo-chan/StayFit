@@ -1,3 +1,6 @@
+https://linuxhint.com/run_linux_command_script_sys_reboot/
+
+
 https://stackoverflow.com/questions/12973777/how-to-run-a-shell-script-at-startup
 How to run a shell script at startup
 
