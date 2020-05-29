@@ -1,3 +1,8 @@
+https://stackoverflow.com/questions/12973777/how-to-run-a-shell-script-at-startup
+How to run a shell script at startup
+
+
+
 https://www.cnblogs.com/pansidong/p/7773873.html
 git 创建tag , 查看tag ， 删除tag
 
